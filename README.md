@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi, i'm Ethan</h1>
 
 <!--
 **EthanPaleyron/EthanPaleyron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
