@@ -1,5 +1,5 @@
 <div align="center" style="display: flex;">
-#Hi 👋, I'm Ethan
+<h1>Hi 👋, I'm Ethan</h1>
 <p align="right"><img width="25%" src="https://komarev.com/ghpvc/?username=IMTR0J4Ne&style=for-the-badge" alt="ethanpaleyron"></p>
 </div>
 
