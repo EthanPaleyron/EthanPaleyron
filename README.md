@@ -1,7 +1,9 @@
-<h1 align="center"><br>Hi 👋, I'm Ethan</h1>
-<h2 align="center">Frontend Developer, Originally from Lyon France, Currently a student at EdenSchool.</h2>
+<div align="center" style="display: flex;">
+#Hi 👋, I'm Ethan
+<p align="right"><img width="25%" src="https://komarev.com/ghpvc/?username=IMTR0J4Ne&style=for-the-badge" alt="ethanpaleyron"></p>
+</div>
 
-<p align="left"><img width="25%" src="https://komarev.com/ghpvc/?username=IMTR0J4Ne&style=for-the-badge" alt="ethanpaleyron"></p>
+<h2 align="center">Frontend Developer, Originally from Lyon France, Currently a student at EdenSchool.</h2>
 
 <!-- - 🔭 I'm currently working on ... -->
 
