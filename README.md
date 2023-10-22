@@ -1,10 +1,6 @@
 <h1 align="center"><p align="right"><img width="25%" src="https://komarev.com/ghpvc/?username=IMTR0J4Ne&style=for-the-badge" alt="ethanpaleyron"/><p>👋 Hi, I'm Ethan</h1>
 
-<h2 align="center">👨‍💻 Frontend Developer</h2>
-<br>
-<h2 align="center">📍 Originally from Lyon France</h2>
-<br>
-<h2 align="center">📚 Currently a student at EdenSchool</h2>
+<h2 align="center">👨‍💻 Frontend Developer<br/>📍 Originally from Lyon France<br/>📚 Currently a student at EdenSchool</h2>
 <!-- - 🔭 I'm currently working on ... -->
 
 - 🌱 I’m currently learning **MySQL**
