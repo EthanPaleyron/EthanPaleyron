@@ -27,7 +27,7 @@
 ## 🧠 [ Skills ]
 
 <br>
-<p align="left">
+<div align="left">
 <!-- BOOTSTRAP -->
   &emsp;
 <a href="https://getbootstrap.com" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"></a>
@@ -87,7 +87,7 @@
 &emsp;
 <a href="https://sass-lang.com" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"></a>
 
-</p>
+</div>
 
 ## 📊 [ Github Stats ]
 
