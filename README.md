@@ -27,11 +27,13 @@
 ## 🧠 [ Skills ]
 
 <br>
-<div align="center"> 
+<div align="center">
   &emsp;
-  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML-e86328?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-e86328?style=for-the-badge&logo=html5&logoColor=white"></a>
   &emsp;
-  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white"></a>
+  &emsp;
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/Javascript-e6d34b?style=for-the-badge&logo=css3&logoColor=black"></a>
   &emsp;
 </div>
 
