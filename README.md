@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ethan</h1>
+<h1 align="center"><br>Hi 👋, I'm Ethan</h1>
 <h2 align="center">Frontend Developer, Originally from Lyon France, Currently a student at EdenSchool.</h2>
 
 <p align="left"><img width="25%" src="https://komarev.com/ghpvc/?username=IMTR0J4Ne&style=for-the-badge" alt="ethanpaleyron"></p>
