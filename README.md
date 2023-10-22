@@ -17,15 +17,15 @@
 
 <br/>
 <div align="center" style="display: flex; justify-content: space-around;">
-  <img width="25%" src="https://komarev.com/ghpvc/?username=IMTR0J4Ne&style=for-the-badge"/>
+  <img width="25%" src="https://komarev.com/ghpvc/?username=EthanPaleyron&style=for-the-badge"/>
     <br/>
     <br/>
     <br/>  
     <br/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IMTR0J4N&count_private=true&theme=github_dark"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=EthanPaleyron&count_private=true&theme=github_dark"/>
   <br/>
   <br/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMTR0J4N&theme=github_dark"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanPaleyron&theme=github_dark"/>
 </div>
 
 <!--
