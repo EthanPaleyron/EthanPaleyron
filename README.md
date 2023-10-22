@@ -1,5 +1,5 @@
 <div align="center" style="display: flex;">
-<h1>Hi 👋, I'm Ethan <p align="right"><img width="25%" src="https://komarev.com/ghpvc/?username=IMTR0J4Ne&style=for-the-badge" alt="ethanpaleyron"><p></h1>
+<h1 style="display: flex;">Hi 👋, I'm Ethan <p align="right"><img width="25%" src="https://komarev.com/ghpvc/?username=IMTR0J4Ne&style=for-the-badge" alt="ethanpaleyron"><p></h1>
 </div>
 
 <h2 align="center">Frontend Developer, Originally from Lyon France, Currently a student at EdenSchool.</h2>
