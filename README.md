@@ -1,34 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
-<h3 align="center">👨‍💻 Frontend Developer<br/>📍 Originally from Lyon France<br/>📚 Currently a student at EdenSchool</h3>
+<h3 align="center">Frontend Developer, Originally from Lyon France, Currently a student at EdenSchool.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanpaleyron&label=Profile%20views&color=0e75b6&style=flat" alt="ethanpaleyron" /> </p>
 
-<!-- - 🔭 I'm currently working on ... -->
-
 - 🌱 I’m currently learning **MySQL**
-
-  <!-- - 👯 I'm looking to collaborate on ... -->
-
-  <!-- - 🤔 I'm looking for help on ... -->
-
-  <!-- - 💬 Ask me questions about ... -->
-
-  <!-- - 📫 How to reach me: ... -->
-
-  <!-- - 😄 Pronouns: ... -->
-
-  <!-- - ⚡ Fun fact: ... -->
-
-<!--
-- 🔭 Je travaille actuellement sur ...
-- 🌱 Je suis en train d'apprendre ...
-- 👯 Je cherche à collaborer sur ...
-- 🤔 Je cherche de l'aide pour ...
-- 💬 Posez-moi des questions sur ...
-- 📫 Comment me joindre : ...
-- 😄 Pronoms : ...
-- ⚡ Fait amusant : ...
--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
