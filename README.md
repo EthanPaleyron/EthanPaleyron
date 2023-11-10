@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on "ccd-vancia(companion dog club)", "test-pdo"<br>👯 I’m looking to collaborate on nothing special<br>🤝 I’m looking for help with PDO<br>🌱 I’m currently learning PHP and MySQL<br>💬 Ask me about JavaScript, SASS, PHP And MySQl<br>⚡ Fun fact...
 
 # 💻 Tech Stack:
 
