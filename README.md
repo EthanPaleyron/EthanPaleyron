@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="./public/js.gif" alt="processor" /></a>
+  <img style="border-radius: 0.3rem;" src="./public/js.gif" alt="processor" /></a>
 </div>
 
 # 💫 About Me:
