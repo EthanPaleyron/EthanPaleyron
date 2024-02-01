@@ -10,8 +10,7 @@
 
 - 📍 I live in **[Lyon France](https://maps.app.goo.gl/2r281f34kmMTemKp7)**
 - 📖 My School : **[EdenSchool](https://www.edenschool.fr/)**
-- 👨‍💻 I'm a front-end and back-end developer
-- 💫 My qualities : ***organized, motivated, determined, objective, serious, calm***
+- 👨‍💻 I'm a front-end, back-end and full-stack developer
 - 🧗 My sport is climbing
 - 🕹️ My favorite video game : **[Geometry-Dash](https://store.steampowered.com/app/322170/Geometry_Dash/?l=french)**
 
