@@ -15,8 +15,6 @@
 - 🕹️ My favorite video game : **[Geometry-Dash](https://store.steampowered.com/app/322170/Geometry_Dash/?l=french)**
 
 # 💻 Tech Stack:
-
-# 💻 Tech Stack:
 <div align="center">
     <h2 align="center">LANGUAGES 🪐</h2>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
