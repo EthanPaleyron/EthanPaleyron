@@ -14,6 +14,9 @@
 - 🧗 My sport is climbing
 - 🕹️ My favorite video game : **[Geometry-Dash](https://store.steampowered.com/app/322170/Geometry_Dash/?l=french)**
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SoldatdOR) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ethan Paleyron)
+
 # 💻 Tech Stack:
 <div align="center">
     <h2 align="center">LANGUAGES 🪐</h2>
@@ -26,6 +29,7 @@
     <h2 align="center">FRAMEWORKS, PLATFORMS & LIBRARIES 📚</h2>
     <img src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS">
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
     <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra">
     <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
     <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
