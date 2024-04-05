@@ -14,9 +14,6 @@
 - 🧗 My sport is climbing
 - 🕹️ My favorite video game : **[Geometry-Dash](https://store.steampowered.com/app/322170/Geometry_Dash/?l=french)**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SoldatdOR) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ethan Paleyron)
-
 # 💻 Tech Stack:
 <div align="center">
     <h2 align="center">LANGUAGES 🪐</h2>
