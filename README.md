@@ -9,10 +9,10 @@
 # 💫 About Me:
 
 - 📍 I live in **[Lyon France](https://maps.app.goo.gl/2r281f34kmMTemKp7)**
-- 📖 My School : **[EdenSchool](https://www.edenschool.fr/)**
-- 👨‍💻 I'm a front-end, back-end and full-stack developer
+- 📖 I study at **[EdenSchool](https://www.edenschool.fr/)**
+- 👨‍💻 I'm a full-stack developer
 - 🧗 My sport is climbing
-- 🕹️ My favorite video game : **[Geometry-Dash](https://store.steampowered.com/app/322170/Geometry_Dash/?l=french)**
+- 🕹️ My favorite video game is **[Geometry-Dash](https://store.steampowered.com/app/322170/Geometry_Dash/?l=french)**
 
 # 💻 Tech Stack:
 <div align="center">
@@ -43,7 +43,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=EthanPaleyron&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EthanPaleyron&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanPaleyron&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<div align="center">
-  <img src="./public/meme.gif" alt="processor"></a>
-</div>
