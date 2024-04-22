@@ -15,7 +15,7 @@
 - 🕹️ My favorite video game is **[Geometry-Dash](https://store.steampowered.com/app/322170/Geometry_Dash/?l=french)**
 
 # 💻 Tech Stack:
-<div display="flex">
+<div style="display=flex">
     <div>
         <h2>LANGUAGES 🪐</h2>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
