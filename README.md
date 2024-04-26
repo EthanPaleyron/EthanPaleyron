@@ -45,6 +45,6 @@
 
 # 📊 GitHub Stats:
 
-![EthanPaleyron's Stats](https://github-readme-stats.vercel.app/api?username=EthanPaleyron&theme=slateorange&show_icons=true&hide_border=false&count_private=true)
-![EthanPaleyron's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanPaleyron&theme=slateorange&show_icons=true&hide_border=false&layout=compact)
 ![EthanPaleyron's Streak](https://github-readme-streak-stats.herokuapp.com/?user=EthanPaleyron&theme=slateorange&hide_border=false)
+![EthanPaleyron's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanPaleyron&theme=slateorange&show_icons=true&hide_border=false&layout=compact)
+![EthanPaleyron's Stats](https://github-readme-stats.vercel.app/api?username=EthanPaleyron&theme=slateorange&show_icons=true&hide_border=false&count_private=true)
