@@ -19,42 +19,42 @@
 ### - LANGUAGES 🪐
 
 <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/javascript" width="40" height="40" alt="JavaScript" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
     &emsp;
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/php" width="40" height="40" alt="PHP" /></a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" /></a>
     &emsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="TypeScript" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" /></a>
     &emsp;
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/css3" width="40" height="40" alt="CSS3" /></a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
     &emsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/html5" width="40" height="40" alt="HTML5" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
     &emsp;
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python" /></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
     &emsp;
-    <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/dart" width="40" height="40" alt="Dart" /></a>
+    <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="40" height="40" alt="Dart" /></a>
     &emsp;
 </div>
 
 ### - FRAMEWORKS, PLATFORMS & LIBRARIES 📚
 
 <div>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/sass" width="40" height="40" alt="Sass" /></a>
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" alt="Sass" /></a>
     &emsp;
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/laravel" width="40" height="40" alt="Laravel" /></a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel" /></a>
     &emsp;
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react" width="40" height="40" alt="React" /></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /></a>
     &emsp;
-    <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/chakra" width="40" height="40" alt="Chakra UI" /></a>
+    <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="40" height="40" alt="Chakra UI" /></a>
     &emsp;
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/bootstrap" width="40" height="40" alt="Bootstrap" /></a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" /></a>
     &emsp;
-    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/flutter" width="40" height="40" alt="Flutter" /></a>
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="40" height="40" alt="Flutter" /></a>
     &emsp;
-    <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/framer" width="40" height="40" alt="Framer Motion" /></a>
+    <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="40" height="40" alt="Framer Motion" /></a>
     &emsp;
-    <a href="https://symfony.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/symfony" width="40" height="40" alt="Symfony" /></a>
+    <a href="https://symfony.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/symfony-colored.svg" width="40" height="40" alt="Symfony" /></a>
     &emsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tailwindcss" width="40" height="40" alt="TailwindCSS" /></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" /></a>
     &emsp;
     <a href="https://www.advancedcustomfields.com/" target="_blank" rel="noreferrer"><img src="" width="40" height="40" alt="ACF" /></a>
     &emsp;
@@ -62,36 +62,36 @@
     &emsp;
     <a href="https://fr.wikipedia.org/wiki/Programmation_orient%C3%A9e_objet" target="_blank" rel="noreferrer"><img src="" width="40" height="40" alt="POO" /></a>
     &emsp;
-    <a href="https://woocommerce.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/woo" width="40" height="40" alt="WooCommerce" /></a>
+    <a href="https://woocommerce.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/woo-colored.svg" width="40" height="40" alt="WooCommerce" /></a>
     &emsp;
 </div>
 
 ### - DATABASES 🌐
 
 <div>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mysql" width="40" height="40" alt="MySQL" /></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
     &emsp;
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mongodb" width="40" height="40" alt="MongoDB" /></a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" /></a>
 </div>
 
 ### - OTHER ⚙️
 
 <div>
-    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vite" width="40" height="40" alt="Vite" /></a>
+    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40" height="40" alt="Vite" /></a>
     &emsp;
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nodejs" width="40" height="40" alt="NodeJS" /></a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" /></a>
     &emsp;
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/visualstudiocode" width="40" height="40" alt="VS Code" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" alt="VS Code" /></a>
     &emsp;
-    <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/wordpress" width="40" height="40" alt="Wordpress" /></a>
+    <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="40" height="40" alt="Wordpress" /></a>
     &emsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git" /></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
     &emsp;
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/figma" width="40" height="40" alt="Figma" /></a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
     &emsp;
-    <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/phpstorm" width="40" height="40" alt="PhpStorm" /></a>
+    <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/phpstorm-colored.svg" width="40" height="40" alt="PhpStorm" /></a>
     &emsp;
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker" /></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" /></a>
     &emsp;
 </div>
 
