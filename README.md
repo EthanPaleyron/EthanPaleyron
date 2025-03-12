@@ -54,7 +54,7 @@
     &emsp;
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" /></a>
     &emsp;
-    <a href="https://www.advancedcustomfields.com/" target="_blank" rel="noreferrer"><img src="https://promatec.digital/wp-content/uploads/2024/10/icon.svg width="40" height="40" alt="ACF" /></a>
+    <a href="https://www.advancedcustomfields.com/" target="_blank" rel="noreferrer"><img src="https://promatec.digital/wp-content/uploads/2024/10/icon.svg" width="40" height="40" alt="ACF" /></a>
     &emsp;
     <a href="https://woocommerce.com/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-woocommerce-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226060.png?f=webp&w=512" width="40" height="40" alt="WooCommerce" /></a>
     &emsp;
