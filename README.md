@@ -29,8 +29,6 @@
     &emsp;
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
     &emsp;
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
-    &emsp;
     <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="40" height="40" alt="Dart" /></a>
     &emsp;
 </div>
@@ -50,19 +48,15 @@
     &emsp;
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="40" height="40" alt="Flutter" /></a>
     &emsp;
-    <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="40" height="40" alt="Framer Motion" /></a>
+    <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/7850794/164965509-2a8dc49e-2ed7-4243-a2c9-481b03bbc31a.png" width="40" height="40" alt="Framer Motion" /></a>
     &emsp;
-    <a href="https://symfony.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/symfony-colored.svg" width="40" height="40" alt="Symfony" /></a>
+    <a href="https://symfony.com/" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_white_03.png" width="40" height="40" alt="Symfony" /></a>
     &emsp;
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" /></a>
     &emsp;
-    <a href="https://www.advancedcustomfields.com/" target="_blank" rel="noreferrer"><img src="" width="40" height="40" alt="ACF" /></a>
+    <a href="https://www.advancedcustomfields.com/" target="_blank" rel="noreferrer"><img src="https://promatec.digital/wp-content/uploads/2024/10/icon.svg width="40" height="40" alt="ACF" /></a>
     &emsp;
-    <a href="https://phpunit.de/" target="_blank" rel="noreferrer"><img src="" width="40" height="40" alt="PHPUnit" /></a>
-    &emsp;
-    <a href="https://fr.wikipedia.org/wiki/Programmation_orient%C3%A9e_objet" target="_blank" rel="noreferrer"><img src="" width="40" height="40" alt="POO" /></a>
-    &emsp;
-    <a href="https://woocommerce.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/woo-colored.svg" width="40" height="40" alt="WooCommerce" /></a>
+    <a href="https://woocommerce.com/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-woocommerce-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226060.png?f=webp&w=512" width="40" height="40" alt="WooCommerce" /></a>
     &emsp;
 </div>
 
@@ -81,15 +75,15 @@
     &emsp;
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" /></a>
     &emsp;
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" alt="VS Code" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40" alt="VS Code" /></a>
     &emsp;
-    <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="40" height="40" alt="Wordpress" /></a>
+    <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="40" height="40" alt="Wordpress" /></a>
     &emsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
     &emsp;
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a>
     &emsp;
-    <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/phpstorm-colored.svg" width="40" height="40" alt="PhpStorm" /></a>
+    <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"><img src="https://grafikart.fr/uploads/icons/phpstorm.svg" width="40" height="40" alt="PhpStorm" /></a>
     &emsp;
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" /></a>
     &emsp;
